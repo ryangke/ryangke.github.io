@@ -1,0 +1,21 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #74c0ff;
+}
+
+.pendidikan {
+  padding: 5rem 1rem;
+  background-color: #74c0ff;
+}
+
+.pengalaman {
+  padding: 2rem 1rem;
+  background-color: #74c0ff;
+}
+
+.contact {
+  background-color: #74c0ff;
+}
+section {
+  padding-top: 5rem;
+}
